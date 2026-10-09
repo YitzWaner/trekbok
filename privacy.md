@@ -1,3 +1,10 @@
+<div align="center">
+  <h1 style="color: #0A84FF; margin-top: 12px; margin-bottom: 4px;">Trekbok</h1>
+  <p style="font-size: 1.1em; color: #666; margin-top: 0;">Privacy Policy</p>
+</div>
+
+---
+
 ### Summary
 Trekbok is built on a simple principle: **your travel history belongs only to you**. We do not collect, store, transmit, or monetize your personal data. Trekbok operates without user accounts, analytics trackers, advertising networks, or third-party servers.
 
