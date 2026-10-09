@@ -1,3 +1,9 @@
+ <style>
+  body {
+    background-color: rgb(R, G, B); /* Example: rgb(135, 206, 235) */
+  }
+</style>
+
 <div align="center">
   <h1 style="color: #0A84FF; margin-top: 12px; margin-bottom: 4px;">Trekbok</h1>
   <p style="font-size: 1.1em; color: #666; margin-top: 0;">Support & User Guide</p>
@@ -82,3 +88,5 @@ Upgrade to Trekbok Platinum with a single purchase—no recurring subscriptions:
 Have questions, suggestions, or run into an issue? We would love to hear from you.
 
 * **Email:** [trekbokapp@gmail.com](mailto:trekbokapp@gmail.com)
+
+ 
