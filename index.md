@@ -1,4 +1,9 @@
-# Trekbok Support & User Guide
+<div align="center">
+  <h1 style="color: #0A84FF; margin-top: 12px; margin-bottom: 4px;">Trekbok</h1>
+  <p style="font-size: 1.1em; color: #666; margin-top: 0;">Support & User Guide</p>
+</div>
+
+---
 
 ## 1. Welcome to Trekbok
 Trekbok is a dedicated travel day counter and trip logger built for iOS. It is designed to take the guesswork out of tracking your time abroad—whether you are monitoring strict visa allowances (such as the Schengen 90/180-day rule), tracking days for tax residency thresholds, or simply keeping a clear, chronological log of your journeys.
