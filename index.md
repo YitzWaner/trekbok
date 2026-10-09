@@ -1,8 +1,3 @@
- <style>
-  body {
-    background-color: rgb(169, 211, 206); 
-  }
-</style>
 
 <div align="center">
   <h1 style="color: #0A84FF; margin-top: 12px; margin-bottom: 4px;">Trekbok</h1>
