@@ -1,6 +1,6 @@
  <style>
   body {
-    background-color: rgb(R, G, B); /* Example: rgb(135, 206, 235) */
+    background-color: rgb(169, 211, 206); 
   }
 </style>
 
