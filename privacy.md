@@ -42,8 +42,8 @@ We do not sell, rent, or share your data with data brokers, advertisers, or any 
 
 ---
 
-### 5. Children’s Privacy
-Because Trekbok collects no personal information whatsoever, we do not knowingly solicit or collect data from children under the age of 13 (or any other age group).
+## 5. Children’s Privacy
+Trekbok does not collect personal information from any user, including children under the age of 13.
 
 ---
 
