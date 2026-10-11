@@ -54,6 +54,8 @@ Different immigration authorities and tax jurisdictions handle arrival and depar
 
 You can customize this calculation for each tracker by toggling the **Count Partial Days** switch to match your jurisdiction's rules.
 
+Please note that countries that are part of the Schengen Zone have not been listed individually but rather under one category. 
+
 ---
 
 ## 4. Trekbok Platinum (One-Time Purchase)
