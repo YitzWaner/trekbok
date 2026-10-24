@@ -1,6 +1,5 @@
-
 <div align="center">
-  <margin-top: 12px; margin-bottom: 4px;">Trekbok</h1>
+  <h1 style="margin-top: 12px; margin-bottom: 4px;">Trekbok</h1>
   <p style="font-size: 1.1em; color: #666; margin-top: 0;">Support & User Guide</p>
 </div>
 
